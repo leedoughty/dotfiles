@@ -1,0 +1,18 @@
+[user]
+	email = ${EMAIL}
+	name = leedoughty
+[push]
+	autoSetupRemote = true
+[column]
+	ui = auto
+[branch]
+	sort = -committerdate
+[tag]
+	sort = version:refname
+[diff]
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[rebase]
+	updateRefs = true
