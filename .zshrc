@@ -9,10 +9,15 @@ plugins=(git z)
 
 source $ZSH/oh-my-zsh.sh
 
+# Options
+setopt EXTENDED_HISTORY
+setopt INC_APPEND_HISTORY_TIME
+
 # Aliases
-alias reload='source ~/.zshrc'
 alias git-undo='git reset --soft HEAD~1'
 alias git-recent='git log --oneline --graph --decorate --all -n 10'
+alias history="history -i"
+alias reload='source ~/.zshrc'
 
 # Custom
 export PATH="/opt/homebrew/bin:$PATH"
