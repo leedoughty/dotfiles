@@ -21,6 +21,7 @@ alias reload='source ~/.zshrc'
 
 # Custom
 export PATH="/opt/homebrew/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
