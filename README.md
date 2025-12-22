@@ -28,3 +28,4 @@ Backup your existing dotfiles, for example:
 
 - Dreams of Autonomy, [Stow has forever changed the way I manage my dotfiles](https://www.youtube.com/watch?v=y6XCebnB9gs)
 - Fireship, [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
+- Adam DeHaven, [How to customize your shell prompt with Starship](https://www.adamdehaven.com/snippets/how-to-customize-your-shell-prompt-with-starship)
