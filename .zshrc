@@ -18,6 +18,7 @@ alias git-undo='git reset --soft HEAD~1'
 alias git-recent='git log --oneline --graph --decorate --all -n 10'
 alias history="history -i"
 alias reload='source ~/.zshrc'
+alias obsidian='cd ~/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/Personal'
 
 # Custom
 export PATH="/opt/homebrew/bin:$PATH"
